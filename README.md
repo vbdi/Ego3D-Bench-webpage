@@ -1,6 +1,6 @@
-<div class="centered">
+<div align ="center">
   <h1>Ego3D-Bench: Spatial Reasoning with Vision-Language Models in Egocentric Multi-View Scenes</h1>
-  <img src="fig1.png" alt="Teaser Image">
+  <img src="fig1.png">
 </div>
 
 <div class="abstract">
