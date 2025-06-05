@@ -5,22 +5,6 @@
   <img src="assets/sample1.png" width="900" title="">
 </p>
 
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
-
-  <a href="https://arxiv.org/abs/your-paper-id" target="_blank" style="background-color: #2e2e2e; color: white; padding: 0.5em 1em; border-radius: 2em; text-decoration: none; font-size: 1em; display: inline-flex; align-items: center;">
-    ✂️&nbsp; arXiv (Comming Soon!)
-  </a>
-
-  <a href="https://github.com/yourusername/yourrepo" target="_blank" style="background-color: #2e2e2e; color: white; padding: 0.5em 1em; border-radius: 2em; text-decoration: none; font-size: 1em; display: inline-flex; align-items: center;">
-    🐱&nbsp; Code (Comming Soon!)
-  </a>
-
-  <a href="https://huggingface.co/datasets/yourdataset" target="_blank" style="background-color: #2e2e2e; color: white; padding: 0.5em 1em; border-radius: 2em; text-decoration: none; font-size: 1em; display: inline-flex; align-items: center;">
-    🤗&nbsp; Dataset 
-  </a>
-
-</div>
 <div align="center">
   <p align="center">
   <h2>Abstract</h2>
